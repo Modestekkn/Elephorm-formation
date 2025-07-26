@@ -1,0 +1,33 @@
+Introduction à figma 
+Figma est un outil de conception d'interfaces utilisateurs basé sur le cloud, permettant aux équipes de collaborer en temps réel. 
+Idéal pour créer des prototypes interactifs, il facilite la conception avant le développement grâce à ses fonctionnalités accessibles et performantes.
+
+Description
+Figma se démarque en tant qu'outil de conception d'interfaces et d'expériences utilisateurs, grâce à son approche cloud qui permet une collaboration fluide et en temps réel. 
+L'une de ses principales fonctionnalités réside dans la capacité à développer des prototypes interactifs, impliquant une validation du design en conditions quasi réelles afin d'optimiser le processus avant la phase de développement. 
+Figma est accessible depuis n'importe quel appareil connecté, ce qui élargit ses possibilités d'utilisation à des systèmes d'exploitation variés comme Windows, Mac, ou Linux.
+
+Les outils de design inclus sont non seulement performants, mais également intuitifs, même pour les débutants. 
+On peut créer et mettre à jour des composants réutilisables de manière globale, favorisant une cohérence dans le système de design. 
+En outre, la présence d'une bibliothèque conséquente de plugins permet l'automatisation de diverses tâches. 
+Figma offre également une version gratuite riche en fonctionnalités, ce qui la rend attrayante pour les freelances et petites équipes.
+
+Questions fréquentes
+Qu'est-ce qui distingue Figma des outils de design traditionnels?
+Figma se distingue par sa capacité à permettre la collaboration en temps réel, sa compatibilité multi-plateforme, et ses fonctionnalités avancées accessibles via le cloud.
+Quels sont les principaux avantages de l'utilisation de Figma?
+Les avantages incluent la collaboration fluide, l'interopérabilité entre systèmes d'exploitation, une interface intuitive, et une version gratuite puissante.
+Comment Figma facilite-t-il la création de systèmes de design cohérents?
+Figma permet d'appliquer globalement des modifications à des composants réutilisables, garantissant une cohérence dans le design à travers l'ensemble du projet.
+###
+Découvrez pourquoi Figma surpasse Sketch et Adobe XD en termes d'accessibilité, de collaboration, et de fonctionnalités avancées pour le design. 
+Idéal pour les équipes et le design système.
+
+Questions fréquentes
+Questions réponses
+Quels sont les avantages de Figma pour la collaboration en équipe ?
+Figma offre une collaboration en temps réel, un accès multiplateforme et des outils tels que le DevMod qui facilitent la conception en équipe.
+Pourquoi Figma est-il préféré pour les projets collaboratifs par rapport à Sketch ?
+Contrairement à Sketch, Figma est accessible sur le web et compatible avec tous les systèmes d'exploitation, ce qui facilite le travail en équipe partout dans le monde.
+Quelles fonctionnalités rendent Figma attrayant pour les designers débutants ?
+Figma propose une version gratuite avec des fonctionnalités complètes, ce qui est idéal pour les débutants qui souhaitent explorer le design sans frais initiaux.
