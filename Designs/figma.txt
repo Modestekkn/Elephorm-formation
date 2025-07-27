@@ -19,6 +19,7 @@ Quels sont les principaux avantages de l'utilisation de Figma?
 Les avantages incluent la collaboration fluide, l'interopérabilité entre systèmes d'exploitation, une interface intuitive, et une version gratuite puissante.
 Comment Figma facilite-t-il la création de systèmes de design cohérents?
 Figma permet d'appliquer globalement des modifications à des composants réutilisables, garantissant une cohérence dans le design à travers l'ensemble du projet.
+
 ###
 Découvrez pourquoi Figma surpasse Sketch et Adobe XD en termes d'accessibilité, de collaboration, et de fonctionnalités avancées pour le design. 
 Idéal pour les équipes et le design système.
@@ -31,3 +32,33 @@ Pourquoi Figma est-il préféré pour les projets collaboratifs par rapport à S
 Contrairement à Sketch, Figma est accessible sur le web et compatible avec tous les systèmes d'exploitation, ce qui facilite le travail en équipe partout dans le monde.
 Quelles fonctionnalités rendent Figma attrayant pour les designers débutants ?
 Figma propose une version gratuite avec des fonctionnalités complètes, ce qui est idéal pour les débutants qui souhaitent explorer le design sans frais initiaux.
+
+###
+Explorez comment Figma, avec ses outils FigJam et Figma Slides, révolutionne la collaboration et la création de contenu dans le domaine du web design.
+
+Questions fréquentes
+Qu'est-ce que FigJam ?
+FigJam est un outil de tableau blanc collaboratif conçu pour faciliter le brainstorming et la planification dans un cadre d'équipe.
+Comment Figma Slides se compare-t-il à Google Slides ?
+Figma Slides offre des fonctionnalités similaires à Google Slides pour la création de présentations en ligne, se concentrant également sur la collaboration.
+Quels sont les avantages d'intégrer FigJam dans la gestion de projet ?
+FigJam permet une meilleure collaboration et planification grâce à ses nombreux templates et options de personnalisation pour brainstormer efficacement.
+
+###
+Questions fréquentes
+Questions réponses
+Quelle est la limite de projets dans la version gratuite de Figma ?
+Dans la version gratuite de Figma, vous pouvez créer un seul projet qui contient jusqu'à trois fichiers.
+Comment ajouter des miniatures aux fichiers dans Figma ?
+Pourquoi structurer les projets par équipe est-il avantageux ?
+Structurer les projets par équipe permet d'organiser plus efficacement le travail, de gérer les accès et les permissions, et de faciliter la collaboration sur de grands projets.
+
+###
+Questions fréquentes
+Questions réponses
+Quelle est l'utilité du panneau des pages dans Figma?
+Le panneau des pages permet d'organiser vos fichiers en sous-pages, facilitant la gestion de projets complexes.
+Comment les composants réutilisables sont-ils représentés dans Figma?
+Dans Figma, les composants réutilisables apparaissent en violet, indiquant leur rôle dans la réutilisabilité et la cohérence du design.
+Quels outils trouve-t-on dans la barre d'outils de Figma?
+La barre d'outils comprend des outils tels que les frames, les formes, et l'outil texte, qui sont essentiels pour créer des designs interactifs.
